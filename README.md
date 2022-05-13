@@ -14,4 +14,5 @@
 ### :hammer_and_wrench: Languages and Tools : 
   <div id="tools" align="center">
   <img src ="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,git,py,)](https://skills.thijs.gg)"
+  </div>
 </div>
