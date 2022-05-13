@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx" width="100"/>
+  <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="100"/>
 </div>
