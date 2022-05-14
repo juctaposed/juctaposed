@@ -15,4 +15,14 @@
   <div id="tools" align="center">
   <img src ="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,git,py,)](https://skills.thijs.gg)"
   </div>
+
+### Streaks : 
+  <div id ="streaks" align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=juctaposed&theme=calm&background=000000](https://git.io/streak-stats)">
+  </div>
+    
+### Stats : 
+  <div id ="stats" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juctaposed&layout=compact&theme=vision-friendly-dark (https://github.com/anuraghazra/github-readme-stats)">
+   </div>
 </div>
