@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
   <ul>
-    <li>:wave: Hey! My name is Justin</li>
+    <li>:wave: Hey! I'm Justin</li>
     <li>Connect With Me</li>
   </ul>
 <div id ="badges" align="center">
