@@ -13,7 +13,7 @@
   
 ### :hammer_and_wrench: Languages and Tools : 
   <div id="tools" align="center">
-  <img src ="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,git,py,)](https://skills.thijs.gg)"
+  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,mongoose,nodejs,express,passportjs,react,git,py,)](https://skills.thijs.gg)"
   </div>
 
 ### Streaks : 
