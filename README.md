@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
   <ul>
-    <li>:wave: Hey! I'm Justin</li>
+    <li>:wave: Hey! I'm Justin. Thanks for stopping by</li>
     <li>Connect With Me</li>
   </ul>
 <div id ="badges" align="center">
@@ -11,17 +11,17 @@
   
  </div>
   
-### :hammer_and_wrench: Languages and Tools : 
+### :hammer_and_wrench: Some of the Techs I Currently Use : 
   <div id="tools" align="center">
-  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,mongoose,nodejs,express,passportjs,react,git,py,)](https://skills.thijs.gg)"
+  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,express,git,bash,py,cpp,react)](https://skills.thijs.gg)"
   </div>
 
-### Streaks : 
+### Account Statistics : 
   <div id ="streaks" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=juctaposed&theme=calm&background=000000](https://git.io/streak-stats)">
   </div>
     
-### Stats : 
+<!-- ### Stats :  -->
   <div id ="stats" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juctaposed&layout=compact&theme=vision-friendly-dark">
    </div>
