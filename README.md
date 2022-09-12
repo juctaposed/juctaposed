@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+  <img src="https://github.com/juctaposed/juctaposed/blob/main/cover.png" width="600"/>
   <ul>
     <li>:wave: Hey! I'm Justin. Thanks for stopping by</li>
     <li>Connect With Me</li>
