@@ -18,7 +18,7 @@
 
 ### Account Statistics : 
   <div id ="streaks" align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=juctaposed&theme=calm&background=000000](https://git.io/streak-stats)">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=juctaposed&theme=highcontrast](https://git.io/streak-stats)">
   </div>
     
 <!-- ### Stats :  -->
