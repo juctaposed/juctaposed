@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://github.com/juctaposed/juctaposed/blob/main/cover.png" width="600"/>
-  <ul>
-    <li>:wave: Hey! I'm Justin. Thanks for stopping by</li>
-    <li>Connect With Me</li>
-  </ul>
+  <p align="center">
+    :wave: Hey! I'm Justin. Thanks for stopping by
+    <br>Connect With Me</br>
+  </p>
 <div id ="badges" align="center">
   <a href ="https://www.linkedin.com/in/justincoughenour">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
