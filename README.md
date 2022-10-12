@@ -5,15 +5,15 @@
     <br>Connect With Me</br>
   </p>
 <div id ="badges" align="center">
-  <a href ="https://www.linkedin.com/in/justincoughenour">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
+<a href="https://twitter.com/juctaposed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juctaposed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/justincoughenour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justincoughenour" height="30" width="40" /></a>
+<a href="https://hashnode.com/@juctaposed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@juctaposed" height="30" width="40" /></a>
   
  </div>
   
 ### :hammer_and_wrench: Some of the Techs I Currently Use : 
   <div id="tools" align="center">
-  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,express,git,bash,py,cpp,react)](https://skills.thijs.gg)"
+  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,express,git,bash,py,cpp,react,bootstrap,tailwind,linux,](https://skills.thijs.gg)"
   </div>
 
 ### Account Statistics : 
