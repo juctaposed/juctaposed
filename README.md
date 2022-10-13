@@ -13,7 +13,7 @@
   
 ### :hammer_and_wrench: Some of the Techs I Currently Use : 
   <div id="tools" align="center">
-  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,express,git,bash,py,cpp,react,bootstrap,tailwind,linux,](https://skills.thijs.gg)"
+  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,express,git,bash,react,py,cpp,bootstrap,tailwind,linux,](https://skills.thijs.gg)"
   </div>
 
 ### Account Statistics : 
