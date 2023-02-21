@@ -2,7 +2,7 @@
   <img src="https://github.com/juctaposed/juctaposed/blob/main/cover.png" width="600"/>
   <p align="center">
     :wave: Hey! I'm Justin. Thanks for stopping by
-    <br>Connect With Me</br>
+    <br>Connect With Me On</br>
   </p>
 <div id ="badges" align="center">
 <a href="https://twitter.com/juctaposed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juctaposed" height="30" width="40" /></a>
