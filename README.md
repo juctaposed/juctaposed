@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://github.com/juctaposed/juctaposed/blob/main/cover.png" width="600"/>
-  <p align="center">
-    :wave: Hey! I'm Justin. Thanks for stopping by
-    <br>Check out these links: </br>
-  </p>
+
+### Socials
+
 <div id ="badges" align="center">
 <a href="https://twitter.com/juctaposed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juctaposed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/justincoughenour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justincoughenour" height="30" width="40" /></a>
@@ -11,7 +10,7 @@
   
  </div>
   
-### :hammer_and_wrench: Here are some of the technologies I use : 
+### I use these sometimes
   <div id="tools" align="center">
     <img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,git,bash,powershell" alt="Tools Row 1"/>
   </div>
