@@ -13,8 +13,15 @@
   
 ### :hammer_and_wrench: Here are some of the technologies I use : 
   <div id="tools" align="center">
-  <img src ="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,express,git,bash,react,py,cpp,bootstrap,tailwind,linux,](https://skills.thijs.gg)"
+    <img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,git,bash,powershell" alt="Tools Row 1"/>
   </div>
+  <div id="tools" align="center">
+    <img src="https://skills.thijs.gg/icons?i=azure,react,py,cpp,linux,docker,kubernetes" alt="Tools Row 2"/>
+  </div>
+  <div id="tools" align="center">
+    <img src="https://skills.thijs.gg/icons?i=bootstrap,tailwind,css,mongodb,githubactions,postman,postgres" alt="Tools Row 3"/>
+  </div>
+
 
 ### Account Statistics : 
   <div id ="streaks" align="center">
