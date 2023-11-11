@@ -22,13 +22,8 @@
   </div>
 
 
-### Account Statistics : 
+### And some stats
   <div id ="streaks" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=juctaposed&theme=highcontrast](https://git.io/streak-stats)">
   </div>
     
-<!-- ### Stats :  -->
-  <div id ="stats" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juctaposed&layout=compact&theme=vision-friendly-dark">
-   </div>
-</div>
