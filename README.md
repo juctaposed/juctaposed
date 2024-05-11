@@ -11,15 +11,11 @@
  </div>
   
 ### I use these sometimes
-  <div id="tools" align="center">
-    <img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,git,bash,powershell" alt="Tools Row 1"/>
-  </div>
-  <div id="tools" align="center">
-    <img src="https://skills.thijs.gg/icons?i=azure,react,py,cpp,linux,docker,kubernetes" alt="Tools Row 2"/>
-  </div>
-  <div id="tools" align="center">
-    <img src="https://skills.thijs.gg/icons?i=bootstrap,tailwind,css,mongodb,githubactions,postman,postgres" alt="Tools Row 3"/>
-  </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,azure,bash,cpp,js,ts,html,css,react,express,nodejs,githubactions,godot,linux,mongodb,mysql,postgres,nextjs,openshift,redhat,py,&perline=6" />
+  </a>
+</p>
 
 
 ### And some stats
